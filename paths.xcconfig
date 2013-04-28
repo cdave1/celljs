@@ -1,0 +1,11 @@
+//
+//  paths.xcconfig
+//  mozjs
+//
+//  Created by David Petrie on 25/01/11.
+//  Copyright 2011 n/a. All rights reserved.
+//
+
+MOZJSROOT = /Users/david/Projects/opensource/js/src/**
+
+HEADER_SEARCH_PATHS = $(MOZJSROOT)
